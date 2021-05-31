@@ -10,5 +10,6 @@
     "HowToAcknowledge": "Please cite the following articles: \n\nOlszowy, W., Diao, Y., & Jelescu, I. O. (2021). Beyond BOLD: in search of genuine diffusion fMRI contrast in human brain. bioRxiv.",
     "ReferencesAndLinks": [
         "https://www.biorxiv.org/content/10.1101/2021.05.16.444253v1.full.pdf"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003676.v1.0.0"
 }
