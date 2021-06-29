@@ -14,5 +14,8 @@
     "DatasetDOI": "10.18112/openneuro.ds003676.v1.0.0",
     "Funding": [
         "This work was supported by the Swiss National Science Foundation under Spark award CRSK-2_190882 (to I.O.J.)."
+    ],
+    "EthicsApprovals": [
+        "The study was examined and approved by the ethics committee of the canton of 4 Vaud (CER-Vaud)."
     ]
 }
